@@ -1,7 +1,6 @@
-## Training OpenCV cascade classifier
+## OpenCV haar cascade trainer
 
 ### Directory structure
-
 ```
 .
 ├─ pos (positive samples database containing .jpg images)
